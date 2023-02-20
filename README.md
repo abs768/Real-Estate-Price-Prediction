@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction
 
-This a simple DataScience developed by me inorder to understand how a real life machine learning model works and with the help of flask and various frontend frameworks how can I actually
+This a simple DataScience Project developed by me inorder to understand how a real life machine learning model works and with the help of flask and various frontend frameworks how can I actually
 showcase my results by actually creating a simple website.
 
 Here in this I have used:
